@@ -5,3 +5,9 @@ Esse arquivo contém arquivos secundários de git
 
 # Comandos mais genéricos
 - comandos estranhos
+
+# Mais comandos
+
+dicamcea
+kdmcaese
+mceoicen
