@@ -1,4 +1,4 @@
-\# \*\*Curso Git e GitHub 2026\*\*
+# **Curso Git e GitHub 2026**
 
 
 
