@@ -8,11 +8,11 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Code.
 
+Confira tudo o que temos no nosso YouTube. É grátis! Segue o link abaixo:
 
+[Curso Git 2015](https://youtube.com/@teomewhy)
 
 ### **Fluxo de trabalho Git <> local (projetos open-source)**
-
-
 
 1. Fork do projeto para o seu próprio github
 2. git clone <endereço do projeto fork>
